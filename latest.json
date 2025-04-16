@@ -1,15 +1,11 @@
 {
-  "version": "v0.1.0",
-  "notes": "La première version du DragonMatien",
-  "pub_date": "2025-04-07T15:30:00Z",
+  "version": "v0.1.1",
+  "notes": "La version 0.1.1 du DragonMatien",
+  "pub_date": "2025-04-16T14:00:00Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU2tXM2xSWEx2ZFE3WTA0cFV6c1NPTmxRc1hXT1V5bnRsZklkWEV6OGF1QmQ3NHMyUWsydXMyUzQ1K1pSTnh6TGlyV0huSUgzNDBHd1hHQXVQYTlpeFpnclN1QXJTWFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MDI2MDgzCWZpbGU6RHJhZ29uTWF0aWVuLmFwcC50YXIuZ3oKeTByd29veHhZTFN3SlVuYy9reENVaTluaXFvUEZVVnBBeDBWZ2pTSVNkS0lZWm11WVkyZVh0Sm0rL1UvaERsNW5DSk9HSTVUNnZySUhCMU95VUdXQkE9PQo=",
-      "url": "https://github.com/QuentinAgobert/dragonmatien/releases/download/v0.1.0/DragonMatien_aarch64.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU2tXM2xSWEx2ZGJwWEdqTkYrbEZxblh2ejFXYWNRRVZsZDhsRnB2RCt0c1pKTkxoYkRRd0JmdXNoZkVRclpKK1lwV3lnWTk4SStoZi9zSDdTbmhTS3dhaFpxWk83b1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MDI2ODIwCWZpbGU6RHJhZ29uTWF0aWVuXzAuMS4yX3g2NF9lbi1VUy5tc2kKRUczWFRyOGdSR3I2SkloZ25valU0bjd5QXFOeEVwNU8xZDdRU2F6QUlCN0hSOG03R3QxT2xlaFZuMm5tSkZvdm9pdjZyRE05M0ZLUzRCcmFXWStNRHc9PQo=",
-      "url": "https://github.com/QuentinAgobert/dragonmatien/releases/download/v0.1.0/DragonMatien_0.1.2_x64_en-US.msi"
+      "url": "https://github.com/QuentinAgobert/dragonmatien/releases/download/v0.1.1/DragonMatien.app.tar.gz"
     }
   }
 }
