@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.1",
-  "notes": "La version 0.1.1 du DragonMatien",
-  "pub_date": "2025-04-16T14:00:00Z",
+  "version": "v0.1.2",
+  "notes": "Pleins de nouvelles icones pour la barre de navigation ! Totalement inutile",
+  "pub_date": "2025-04-17T11:30:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU2tXM2xSWEx2ZGE2TzZXM0o2ZHZNTys1K1hYV0FrYi90dGIzaktaa2tRRHg2RDFKbGtLNzUwMURobTd3RHgxSFZiNUJRaTQxVEkrMG5aK2FXUHBwNHQrQVJWTkR5TUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0ODA1MTY2CWZpbGU6RHJhZ29uTWF0aWVuLmFwcC50YXIuZ3oKMDh4a0xmWXZJeEZaSUM1RHdBbE40UlpveW13d1N0YURVZzRwOGNpMUxVaEZabUoraStYN3Flejk2eGZ1VXluZVFyQjQ3OWk2ZEJYMGk5Unp3QkVRQ2c9PQo=",
-      "url": "https://github.com/QuentinAgobert/dragonmatien/releases/download/v0.1.1/DragonMatien.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU2tXM2xSWEx2ZFZ4UWMyTnBKNFFHWnYxK3hPU1l1bUt3RldEcFpBQzlueThGcHo1LzNaNXMwQkx6UXJ1ZW5GSGxNUmVWTmRqNnk5aXVScGNxaWhyU0J0aDRMdHN0YVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0ODgyMzQxCWZpbGU6RHJhZ29uTWF0aWVuLmFwcC50YXIuZ3oKU1JWdUpNZkZIbHZURXZVMStrS1NOSGs0VnpLUUdDaVRvQ21raml2b25oOHp3dHhyTzdmWGxlQVN5OWpLMUNMVmJ2OVBsazNhNWVzYUVZZmdiOW9FQ1E9PQo=",
+      "url": "https://github.com/QuentinAgobert/dragonmatien/releases/download/v0.1.2/DragonMatien.app.tar.gz"
     }
   }
 }
